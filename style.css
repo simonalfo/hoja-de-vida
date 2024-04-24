@@ -1,0 +1,44 @@
+*{
+margin: 0px;
+padding: 0%;
+
+}
+
+body {
+background-color: rgb(0, 0, 0);
+
+}
+
+.one {
+width: 95%;
+background: rgb(155, 7, 7);
+height: 80px;
+margin: 30px;
+list-style: none;
+
+
+}
+
+.tree {
+color: black;
+margin: 20px;
+word-spacing: 40px;
+font-size: 35px;
+
+
+
+}
+
+.imagen {
+
+text-align: center;
+
+
+}
+
+
+
+
+
+
+
